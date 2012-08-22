@@ -1,0 +1,7 @@
+Sqlserver娘是微软出品的数据库解决方案及系统Microsoft SQL Server的拟人化萌娘。 
+
+Microsoft SQL Server是由美国微软公司所推出的关联式资料库解决方案，截至2011年7月18日的最新的版本是SQL Server 2008 R2，已经在2010年4月12日发布。 
+
+Microsoft SQL Server资料库的内置语言是由美国标准局（ANSI）和国际标准组织（ISO）所定义的SQL语言，微软公司对它进行了部分扩充而成为作业用SQL（Transact-SQL）。 
+
+Microsoft SQL Server几个初始版本适用于中小企业的数据库管理，但是近年来它的应用范围有所扩展，已经触及到大型、跨国企业的数据库管理。

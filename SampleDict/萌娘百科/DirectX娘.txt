@@ -1,0 +1,9 @@
+DirectX娘 DirectX娘 
+
+属性 天然元气属性 
+
+职业 翻译（DirectX是作为程序猿和硬件之间的通用语言） 
+
+爱好 玩2D（指DirectDraw，后来为Direct2D）、3D游戏（指Direct3D）、唱歌（指DirectPlay）、配音（指DirectSound） 
+
+缺点 经常会丢三落四（经常性丢失DLL文件，其中以DX9.0C为最） 然后就没法玩游戏 
