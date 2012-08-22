@@ -1,0 +1,17 @@
+Lexika
+A TXT based simple dictionary.
+
+-----------------------------------------
+
+Requirment：
+System：Windows 7 or higher
+.Net Framework 4.5
+Visual Studio 2012
+
+-----------------------------------------
+
+Usage：
+1、Every dict folders should be placed in the Dic folder
+2、Every singel word should be placed in the subfolders.
+
+-----------------------------------------
